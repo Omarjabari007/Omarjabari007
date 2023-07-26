@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SVG Text Animation</title>
+  <style>
+    /* Add CSS styles for your animation here */
+    svg {
+      font-size: 40px;
+      fill: #ff6347;
+      stroke: #000000;
+      stroke-width: 1.5;
+      stroke-dasharray: 400;
+      stroke-dashoffset: 400;
+      animation: dash 2s linear infinite;
+    }
+    
+    @keyframes dash {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <svg width="300" height="100" viewBox="0 0 300 100">
+    <text x="-500" y="70">Hello there, my name is Omar Jabari. Welcome to my GitHub profile.
+
+
+
+
+</text>
+  </svg>
+</body>
+</html>
+
