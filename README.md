@@ -21,7 +21,7 @@ I'm [Omar Jabari], a passionate developer interested in [Information Security+AI
 ![Me]([https://path-to-your-image.png](https://www.facebook.com/photo?fbid=2363030447172243&set=a.100627613412549))
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-![GIF Animation](https://giphy.com/gifs/anime-computer-working-and-HqWU6NTLNLzg2Qf5rH)
+![GIF Animation](https://media.giphy.com/media/HqWU6NTLNLzg2Qf5rH/giphy.gif)
 
 
 
