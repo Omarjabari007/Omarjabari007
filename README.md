@@ -19,7 +19,6 @@ I'm [Omar Jabari], a passionate developer interested in [Information Security+AI
 ![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 ![GIF Animation](https://media.giphy.com/media/HqWU6NTLNLzg2Qf5rH/giphy.gif)
 
 
