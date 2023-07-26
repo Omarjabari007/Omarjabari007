@@ -22,3 +22,15 @@ I'm [Omar Jabari], a passionate developer interested in [Information Security+AI
 ![GIF Animation](https://media.giphy.com/media/HqWU6NTLNLzg2Qf5rH/giphy.gif)
 
 
+<p align='center'>
+
+<h1>Animation ..woo</h1>
+<img src='svg' width ='400'/>
+
+
+
+
+
+
+</p>
+
