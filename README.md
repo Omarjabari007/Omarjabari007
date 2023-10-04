@@ -5,6 +5,8 @@ I'm [Omar Jabari], a passionate developer interested in [Information Security+AI
 - Programming Languages: [C++/Java/Java scipt]
 - Frameworks / Libraries: [Soon].
 - Tools / Technologies: [A lot of tools on Linux especially on Kali Linux like set and nmap].
+- -NOSQL : MongoDB  Database
+- Problem solving + 300 problems on different platform such  as codeforces 
 - ## 🚀 Projects
 
 - [Project 1](It's private now and i don't know if i should show my first project lol): CoffeMachine.
