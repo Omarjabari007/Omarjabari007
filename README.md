@@ -5,7 +5,7 @@ I'm [Omar Jabari], a passionate developer interested in [Information Security+AI
 - Programming Languages: [C++/Java/Java scipt]
 - Frameworks / Libraries: [Soon].
 - Tools / Technologies: [A lot of tools on Linux especially on Kali Linux like set and nmap].
-- -NOSQL : MongoDB  Database
+- -NOSQL : MongoDB  Database (Basics)
 - Problem solving + 300 problems on different platform such  as codeforces 
 - ## 🚀 Projects
 
