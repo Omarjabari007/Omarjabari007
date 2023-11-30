@@ -9,8 +9,8 @@ I'm [Omar Jabari], a passionate developer interested in [Information Security+AI
 - Problem solving + 300 problems on different platform such  as codeforces 
 - ## 🚀 Projects
 
-- [Project 1](It's private now and i don't know if i should show my first project lol): CoffeMachine.
-- [Project 2](link-to-project2): Soon.
+- [Project 1]( CoffeMachine.
+- [Project 2](Database Education)
 ## 📫 Contact Me
 
 - LinkedIn: [https://www.linkedin.com/in/omar-jabari-64aa2b282/]
