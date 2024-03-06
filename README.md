@@ -1,9 +1,7 @@
 ### OMAR JABARI 👋
-I'm [Omar Jabari], a passionate developer interested in [Information Security+AI].
-## 🔧 Skills
 
-- Programming Languages: [C++/Java/Java scipt,python]
-- Frameworks / Libraries: [Soon].
+- Programming Languages:[C++, Python]
+- Frameworks / Libraries: [Flask , Pandas , Numpy].
 - Problem solving + 300 problems on different platform such  as codeforces 
 ## 📫 Contact Me
 
