@@ -10,3 +10,4 @@
 - Email: [omarjabari009@gmail.com]
    
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarjabari007)](https://github.com/anuraghazra/github-readme-stats)
