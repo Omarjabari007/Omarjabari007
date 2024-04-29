@@ -10,4 +10,4 @@
 - Email: [omarjabari009@gmail.com]
    
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarjabari007&show_icons=true&theme=tokyonight)
+![Omarjabari007 GitHub stats](https://github-readme-stats.vercel.app/api?username=Omarjabari007&show_icons=true&theme=tokyonight)
