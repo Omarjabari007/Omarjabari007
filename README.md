@@ -1,7 +1,7 @@
 ### OMAR JABARI 👋
 
 - Programming Languages:[C++, Python]
-- Frameworks / Libraries: [Flask , Pandas , Numpy].
+- Frameworks : [Flask].
 - Problem solving + 300 problems on different platform such  as codeforces 
 ## 📫 Contact Me
 
