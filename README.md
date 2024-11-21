@@ -1,6 +1,7 @@
 **OMAR JABARI 👋**
-### 🎓 Aspiring Software Engineer | 💻 Backend Developer | 🧩 Problem Solver
+<h1 align="center">Hi there, I'm Omar Jabari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
+### 🎓 Aspiring Software Engineer | 💻 Backend Developer | 🧩 Problem Solver
 
 - Programming Languages:[C++, Java , Python]
 - Frameworks : [Spring Boot , fastapi].
