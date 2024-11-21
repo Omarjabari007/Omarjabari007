@@ -19,9 +19,10 @@
 📊 **Most Used Languages**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarjabari007&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
-   
-
-
+### 👨‍💻 Coding Vibes  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+</p>
 
 
 ### ✍️ Random Dev Quote
