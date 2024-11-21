@@ -9,7 +9,12 @@
 - Instgram: [https://www.instagram.com/omarja_07/]
 - Email: [omarjabari009@gmail.com]
 
+- **GitHub Stats**
+
+
 - <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omarjabari007&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarjabari007&theme=radical" alt="GitHub Streak Stats" /> </p>
+
+**Most Used Languages**
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarjabari007&layout=compact&theme=radical" alt="Top Languages" /> </p>
