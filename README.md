@@ -7,7 +7,6 @@
 ## 📫 Contact Me
 
 - LinkedIn: [https://www.linkedin.com/in/omar-jabari-64aa2b282/]
-- Instgram: [https://www.instagram.com/omarja_07/]
 - Email: [omarjabari009@gmail.com]
 
 -<p align="center">
