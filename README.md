@@ -8,6 +8,7 @@
 
 - LinkedIn: [https://www.linkedin.com/in/omar-jabari-64aa2b282/]
 - Email: [omarjabari009@gmail.com]
+- Instgram: [https://www.instagram.com/omarja_07/]
 
 -<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Omar+Jabari;Backend+Developer+with+Spring+Boot+and+FastAPI;400%2B+Problems+Solved+on+Codeforces;Passionate+About+Clean+Code+%26+APIs" alt="Typing Animation" />
