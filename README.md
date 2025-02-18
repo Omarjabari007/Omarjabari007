@@ -2,7 +2,7 @@
 
 ### 🎓 Aspiring Software Engineer | 💻 Backend Developer | 🧩 Problem Solver
 
-- Programming Languages:[C++, Java , Python]
+- Programming Languages:[C++, Java , Python, TypeScript]
 - Frameworks : [Spring Boot , fastapi].
 ## 📫 Contact Me
 
