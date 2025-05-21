@@ -2,8 +2,8 @@
 
 ### 🎓 Aspiring Software Engineer | 💻 Backend Developer | 🧩 Problem Solver
 
-- Programming Languages:[C++, Java , Python]
-- Frameworks : [Spring Boot , fastapi].
+- Programming Languages:[C++, Java , TypeScript]
+- Frameworks : [Spring Boot , ExpressJS].
 ## 📫 Contact Me
 
 - LinkedIn: [https://www.linkedin.com/in/omar-jabari-64aa2b282/]
