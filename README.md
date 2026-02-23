@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Omar Jabari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-### 🎓 Aspiring Software Engineer | 💻 Backend Developer | 🧩 Problem Solver
+### 🎓 Aspiring DevOps Engineer | 💻 Backend Developer | 🧩 Problem Solver
 
 - Programming Languages:[C++, Java , TypeScript , Python]
 - Frameworks : [Spring Boot , ExpressJS , FastAPI].
